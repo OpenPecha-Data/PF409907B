@@ -1,0 +1,277 @@
+id: PF409907B
+initial_creation_type: input
+source_metadata:
+  title: Rinchen Terdzö Series
+  language: de
+  description: 'Texts belonging to (and related to) the Rinchen Terdzö (rin chen gter
+    mdzod) or Precious Treasury of Revelations, one of the five treasuries of Jamgön
+    Kongtrul Lodrö Thayé (1813–1899). Note that the volume numbers below correspond
+    to the Shechen Publications edition (2007–2008):'
+  volume:
+    dff532b0a0fd42a19eb96bcaee94a6d6:
+      title: 'A Garland of Vajra Gems: The Life and Liberation of the Guru'
+      parent: Volume 1
+    77fccb7f6a324f279835572dea239622:
+      title: The Life and Liberation of Padmākara, the Second Buddha from A Precious
+        Garland of Lapis Lazuli
+      parent: Volume 1
+    c3b0ed8c982f47af837cd81c5eccfd9f:
+      title: 'The Melodious Sound of Gathering Auspiciousness: A Prayer Based on the
+        Liberational Life of the Omniscient Jamyang Khyentse Wangpo'
+      parent: Volume 1
+    745d2a3b2f2846debcc6d0f1441714c4:
+      title: 'The Melodious Speech of Samantabhadra: A Prayer to the Glorious Master
+        Jamgön Kongtrul Thaye'
+      parent: Volume 1
+    374c1c4718fe4147a9c5e6f9a1f88180:
+      title: 'A Beautiful and Wondrous Udumbara Garland: A Supplication and Summary
+        of the Chronicles of Padma, The Life and Liberation of the Precious Guru of
+        Uḍḍiyāna'
+      parent: Volume 1
+    b433af155bdb482691387d62d83f005f:
+      title: A Prayer Recalling the Life and Liberation of the Precious Master Padmasambhava
+      parent: Volume 1
+    5d4c219e4a99486086ab441ed33e78fe:
+      title: 'Cloud Banks of Blessings: A Prayer Recounting the Eleven Deeds of the
+        Life and Liberation of the Guru from Uḍḍiyāna'
+      parent: Volume 1
+    0223d6fe9b344d9281c6cb4d1cd1817c:
+      title: 'Three Reasons for Confidence: A Work Telling the Life and Liberation
+        Story of the Great Master Padmākara'
+      parent: Volume 1
+    e46a1ba7786c4c90b117111cbaabf3de:
+      title: The Lament of Rudra
+      parent: Volume 5
+    053a2d865f0841b69caff9428434d9e6:
+      title: 'Le''u Dünma—Chapter 1: The Prayer to the Three Kāya Guru'
+      parent: Volume 5
+    6f92b2cdb4184db99119b4172c84bdea:
+      title: 'Le''u Dünma—Chapter 2: The Prayer Requested by King Tri Songdetsen'
+      parent: Volume 5
+    89531c9deb8946a58a097563845e9879:
+      title: 'Le''u Dünma—Chapter 3: The Prayer Requested by Khandro Yeshe Tsogyal'
+      parent: Volume 5
+    43020f940c0944b19dfd2453fe1d1c38:
+      title: 'Le''u Dünma—Chapter 4: The Prayer Requested by Namkhe Nyingpo'
+      parent: Volume 5
+    72a3e77dea884c55a3d717d9d7e2e1fc:
+      title: 'Le''u Dünma—Chapter 5: The Prayer Requested by Nanam Dorje Dudjom'
+      parent: Volume 5
+    2dc4cbfd92eb4afca2767aafcc844d89:
+      title: 'Le''u Dünma—Chapter 6: The Prayer Requested by Prince Mutri Tsenpo'
+      parent: Volume 5
+    878a28d80c1e4a03999348695f60593f:
+      title: Le'u Dünma—Chapter 7. The Prayer to Guru Rinpoche that Spontaneously
+        Fulfills All Wishes (Sampa Lhundrupma)
+      parent: Volume 5
+    a7b7a762483c4721a8f30e1f67ecd5b1:
+      title: 'The Brilliant Essence: The Ritual Manual for the Secret Embodiment of
+        the Guru (Lama Sangdü)'
+      parent: Volume 6
+    65f8d290e9e84af5bdeba1beb00485b8:
+      title: The Prayer Which Removes All Obstacles from the Path (Barché Lamsel)
+      parent: Volume 10
+    31b96dd64b9e493aae0c6e6e14b00fa6:
+      title: 'The Prayer to Guru Rinpoche that Spontaneously Fulfils All Wishes (Sampa
+        Lhundrupma) from The Guru’s Heart Practice: The Wish-Fulfilling Jewel'
+      parent: Volume 10
+    e492d28d34d5422cae2cbea4eb76c332:
+      title: 'The Vajra Lute: A Brief Fulfilment for the Guru Practice of Vidyādhara-Assembly'
+      parent: Volume 10
+    7f6521b13c754479aaab12f1336a9cc5:
+      title: 'A Glimpse of the Crucial Points: The Vidyādhara''s Manual of Concealed
+        Instructions'
+      parent: Volume 10
+    840b66e10684419d946cf1a68679a8d4:
+      title: The Root Empowerment of the Vase Conferring Majesty from the Heart-Essence
+        of the Vast Expanse
+      parent: Volume 10
+    b08e71670dbc446f9f387ce46d907990:
+      title: The Spontaneous Vajra Song of Fulfilment and Confession
+      parent: Volume 10
+    71e116ad5e944811ab21618769082625:
+      title: The Vidyādhara Assembly (Rigdzin Düpa), the Inner Practice from the Heart
+        Essence of the Vast Expanse
+      parent: Volume 10
+    bf26ddf647f04da9888b04c619e5112d:
+      title: The Prayer of the Tenth Days in Guru Rinpoche’s Life Story entitled ‘The
+        Nucleus of Blessings’
+      parent: Volume 11
+    2b594341c2d84ec38aac0b510c222559:
+      title: 'The Tambura’s Yearning Song of Devotion: A Prayer Summarizing Khandro
+        Yeshe Tsogyal’s Life and Liberation'
+      parent: Volume 11
+    f2bd254398544590a1fc4d3d20763f4a:
+      title: 'The Offering Clouds of the Indestructible Ladies of Sound: Concise Garland
+        of Offerings of the Sixteen Vajra Goddesses'
+      parent: Volume 11
+    fb86e16e981f4522bc6696527b67f4ab:
+      title: The Invocation of Uḍḍiyāna on the Tenth Day
+      parent: Volume 11
+    b11305b9822241cfbd22889161d56502:
+      title: Ārya Mañjuśrī Tantra Garbha
+      parent: Volume 16
+    155161ba68134adbb4dce892dc6d164b:
+      title: Ārya Mañjuśrī Tantra Garbha—commentary
+      parent: Volume 16
+    8dca1a6fc7b340b6a1d035d15ee0be73:
+      title: Dedication from Vajravārāhī Cycle of Namchö revealed by Mingyur Dorje
+      parent: Volume 21
+    9a946514701246b895c4e70a48959d55:
+      title: 'The Wish-Fulfilling Jewel: A Daily Sādhana of the Noble Avalokiteśvara'
+      parent: Volume 22
+    2a3950e5b0904f8fa189f9bbe91b2c5d:
+      title: Prayer to the Lineage of the Supreme Hayagrīva Emanation from the Aural
+        Transmission
+      parent: Volume 26
+    cd4a96afa9124670aaab51b2ce89e36d:
+      title: 'Meeting the Buddha Face to Face: A Pith Instruction on Realizing the
+        Fortress, Ravine, and View of the Practice of Vajrakīla'
+      parent: Volume 31
+    e0af997364b24335a91e96dea5821ffd:
+      title: The History of the Hearing Lineage of the Profound and Secret Practice
+        of Siṃhamukhā
+      parent: Volume 32
+    376c3f64073c4166b836be70892a0c2a:
+      title: 'The Cascading Essence of Great Bliss: An Empowerment Ritual for the
+        Female Practice of the Queen of Great Bliss, from the Heart Essence of the
+        Vast Expanse'
+      parent: Volume 36
+    ace9a386c53f4167b5c9d61ce7667727:
+      title: 'The Fount of Longevity: The Chimé Pakmé Nyingtik Lineage Prayer'
+      parent: Volume 36
+    62791cb12e68492ba7a199509cdd4f64:
+      title: Activities for Uncovering Primordial Wisdom from the Chimé Pakmé Nyingtik,
+        ‘The Heart Essence of the Sublime Lady of Immortality’
+      parent: Volume 36
+    5d72ec4ab58e44838ae5271ce25fe815:
+      title: 'The Garland of Utpala Flowers: A Prayer to the Masters of the Lineage
+        of Zabtik Drolchok'
+      parent: Volume 36
+    e50a59d6cd6446abb4ee55ba4c8be4e8:
+      title: 'The Shower of Great Bliss: A Prayer to the Lineage of the Female Awareness-Holder
+        (Yumka)'
+      parent: Volume 36
+    4013ef0896bb4068a3261dd7483cc8d2:
+      title: The Single-Form Daily Practice from Chimé Pakmé Nyingtik (The Heart Essence
+        of the Sublime Lady of Immortality)
+      parent: Volume 36
+    bb28bed8f7ea4495b4af31501860cbc2:
+      title: A Glorious Garland of Great Bliss, the Root Sādhana of the Queen of Great
+        Bliss, Yumka Tsogyal, from the Heart Essence of the Vast Expanse
+      parent: Volume 36
+    b9e47ed2ef064aa69de5648896e6ea54:
+      title: The Twenty-Eight Commitments
+      parent: Volume 41
+    b02351807a11433bb8eb4311dc196e52:
+      title: The Ultimate Inexpressible Confession (Yeshe Kuchokma)
+      parent: Volume 41
+    bb3d9f0af51a4dd0993df589bdd73f20:
+      title: Verses of Confession 'Düsum Deshekma'
+      parent: Volume 41
+    a33332186d2a454b9117c1bfb20c2fc7:
+      title: 'Emptying the Hells from their Very Depths: The Sovereign Practice for
+        the Confession of all Impairments and Breakages of Vows and all Negative Actions
+        and Obscurations'
+      parent: Volume 41
+    c28c5db359ad47b8bdd6b59cecd1d292:
+      title: Offering the Eight Auspicious Substances and Seven Emblems of Royalty
+      parent: Volume 41
+    86669ccd1e7e498580b12bed50776214:
+      title: 'The Rain of Virtue and Goodness: A Short Practice for Consecrating Representations
+        of Enlightened Body, Speech and Mind'
+      parent: Volume 41
+    32a68260b6f447799003a10f3d2fe12f:
+      title: 'Damchen Chitor: A Brief Practice of Torma Offering to the Oath-Bound
+        Guardians'
+      parent: Volume 41
+    7b078f4ebaa341de8ca28d392946ad47:
+      title: 'Jewels of Many Colours: Ordinary Fire Pūjas for the Four Activities
+        Based on a Single Substance to Easily Conclude Approach and Accomplishment'
+      parent: Volume 42
+    9f82c8f08b904b76836ed3aedfa88f92:
+      title: 'Liberation Upon Hearing: An Explanation of the Phenomena of the Intermediate
+        State'
+      parent: Volume 42
+    f5d7183bd5a0481b9044c6085b444ae1:
+      title: 'Bright Light of the Sun: A Simple Fire Offering Based on a Single Substance'
+      parent: Volume 42
+    f3528e84221e4b3eb46e22ec2737827c:
+      title: White and Red Sur Offerings That Are Very Easy to Apply
+      parent: Volume 43
+    5a0bc079f57040a4a7160051313cbd18:
+      title: The Mountain Smoke Offering (Riwo Sangchö)
+      parent: Volume 43
+    9eece3720e7048749d72d2bae79b7b39:
+      title: The Means for Accomplishment called the Blazing Wheel
+      parent: Volume 45
+    0d4a8a13cbcf4453815b4a05fef22901:
+      title: Dispeller of All Samaya Corruptions and Pollutions
+      parent: Volume 47
+    dd92c86b576b485792a6648d96ff5c7e:
+      title: 'The New Glorious Bestower of Immortality: A Long-Life Practice and Empowerment
+        that Unites the Oral, Treasure and Visionary Teachings'
+      parent: Volume 48
+    085b1522689a4aa699d43a7bafb31b8b:
+      title: The Sādhana and Empowerment for the Extremely Close Lineage of the Long-Life
+        Practice that Unites the Oral, Treasure and Visionary Teachings
+      parent: Volume 48
+    601d9361b92b4beba92b25078bd2e921:
+      title: The Dhāraṇīs That Encapsulate the Essence of the Kangyur, the Collected
+        Words of the Buddha
+      parent: Volume 48
+    63afb74b72d54d66a363f0d277534ba0:
+      title: 'Opening the Door to Great Bliss: An Aspiration Towards the Realm of
+        Abhirati'
+      parent: Volume 48
+    a80896229373467db70552503dede902:
+      title: 'The Essence of Benefit and Happiness: A Method for Saving Lives'
+      parent: Volume 49
+    ff6aa41827d04834922bf89c9c7cf5e5:
+      title: The Indestructible Vajra Garland, An Aspiration Prayer for the Lives
+        of the Supreme Holders of the Non-Sectarian Teachings
+      parent: Volume 49
+    f7c1d1af8e44474b9c2088ce4cc010f9:
+      title: 'The Bestowal of Supreme Immortality: A Prayer to the Lineage of Mitrayogin’s
+        White and Red Amitāyus'
+      parent: Volume 49
+    3bbf4b5cb5f144be9797717e54410b64:
+      title: Prayer for the Future of the Dharma
+      parent: Volume 52
+    78034a3cc15a4b179d5a647557e1a392:
+      title: A Practice of Paying Homage and Making Offerings to the Sixteen Elders
+      parent: Volume 52
+    3a508e0303494622978948218a880696:
+      title: A Prayer to Jowo Rinpoche Combined with Aspirations and a Means to Receive
+        the Four Empowerments
+      parent: Volume 52
+    3616000ab3cc41ee860a02ae8b835040:
+      title: 'The Treasury of Blessings: A Practice of Buddha Śākyamuni'
+      parent: Volume 52
+    3dd2cf3c4344407fb45f29ddf454b0bf:
+      title: The Aspiration of the Vajradhātu Maṇḍala
+      parent: Volume 60
+    d0e3f927ca614b4892128624ef003296:
+      title: 'Words to Delight the Sovereigns of the Dharma: A Prayer of Aspiration
+        for the Flourishing and Spread of the Ancient Translation Tradition'
+      parent: Volume 60
+    6c6e038eb21b41afa0254179868a5e0c:
+      title: The Pointing-the-Staff Instruction
+      parent: Volume 60
+    187af55d36bf44e68cb3c8ffc7682fe8:
+      title: Yeshe Tsogyal's Prayer
+      parent: Volume 60
+    e0ff02b35c9443869023014ca64c0eae:
+      title: The Powerful Prayer of Aspiration from the Tantra of the Great Perfection
+        that Reveals the All-Penetrating Wisdom Mind of Samantabhadra (Kunzang Mönlam)
+      parent: Volume 60
+    2d86d947b38d40658b957a4e63b6c768:
+      title: 'Radiant Sunlight of the Victors’ Teachings: A Brief, First-Hand Account
+        of the Liberating Life-Story of the Great Emanated Treasure Revealer'
+      parent: Volume 65
+    d807dd163aea45969f54113ebe1d9270:
+      title: The Brief Tsok Feast Offering Prayer from 'The Profound Path of the Ḍākinīs'
+        Heart Drop'
+      parent: Volume 67
+created_at: '2022-03-01T05:31:39.689185'
+last_modified_at: '2022-03-01T05:31:39.689188'
